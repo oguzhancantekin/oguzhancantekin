@@ -1,5 +1,5 @@
 
-# <p align="center">    <img src="https://raw.githubusercontent.com/oguzhancantekin/Py-Gif/main/oguz_dynamic_hello_final.gif" alt="Oğuzhan Cantekin Dinamik Mesaj GIF'i" width="750"/>
+# <p align="center">    <img src="oguz_dynamic_hello_final.gif" alt="Oğuzhan Cantekin Dinamik Mesaj GIF'i" width="750"/>
 </p>
 
 <p align="center">
